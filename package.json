@@ -1,0 +1,46 @@
+{
+  "name": "vue3-chatgpt-ai",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@firebase/app": "^0.10.3",
+    "@firebase/database": "^1.0.5",
+    "@firebase/storage": "^0.12.5",
+    "@mdi/font": "7.4.47",
+    "@vueuse/core": "^10.9.0",
+    "core-js": "^3.37.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "openai": "^4.45.0",
+    "roboto-fontface": "*",
+    "vite-plugin-pages": "^0.32.1",
+    "vue": "^3.4.27",
+    "vue-i18n": "^9.13.1",
+    "vuetify": "^3.6.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "eslint": "^9.2.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^17.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.26.0",
+    "pinia": "^2.1.7",
+    "sass": "^1.77.1",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.27.0",
+    "unplugin-vue-router": "^0.8.6",
+    "vite": "^5.2.11",
+    "vite-plugin-vue-layouts": "^0.11.0",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vue-router": "^4.3.2"
+  }
+}
