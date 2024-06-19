@@ -11,7 +11,11 @@
 
 This project harnesses these cutting-edge technologies to deliver a seamless and responsive chat interface, enriched with AI-driven interactions. Enjoy the power of real-time data, sleek design, and intelligent conversation in one cohesive package.
 
-https://github.com/mustafacagri/vue3-chatgpt-ai-initial/assets/7488394/1fd4179b-f5d6-41a4-b2e4-4f1fc4b91a41
+
+
+https://github.com/mustafacagri/vue3-chatgpt-ai/assets/7488394/8d46056f-8746-4fb4-adb7-9ae181830f5c
+
+
 
 ## 🚀 Features
 
