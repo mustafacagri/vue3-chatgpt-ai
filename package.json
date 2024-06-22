@@ -5,7 +5,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint . --fix --ignore-path .gitignore"
+    "lint": "eslint . --fix --ignore-path .gitignore",
+    "test": "vitest"
   },
   "dependencies": {
     "@firebase/app": "^0.10.3",
@@ -32,7 +33,9 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-vue": "^9.26.0",
+    "jsdom": "^24.1.0",
     "pinia": "^2.1.7",
+    "resize-observer-polyfill": "^1.5.1",
     "sass": "^1.77.1",
     "unplugin-auto-import": "^0.17.6",
     "unplugin-fonts": "^1.1.1",
@@ -41,6 +44,7 @@
     "vite": "^5.2.11",
     "vite-plugin-vue-layouts": "^0.11.0",
     "vite-plugin-vuetify": "^2.0.3",
+    "vitest": "^1.6.0",
     "vue-router": "^4.3.2"
   }
 }
